@@ -1,0 +1,148 @@
+@import (reference) "_elements";
+
+/*--------------------------------------------
+Sidebar
+----------------------------------------------*/
+.sidebar, .wpb_widgetised_column {
+  .widget {
+    margin-bottom: 50px;
+  }
+  .widget-title {
+    font-size: 22px;
+    line-height: 1;
+    color: #111;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+  }
+}
+
+// Search
+.sidebar, .wpb_widgetised_column {
+  .widget_search {
+    .search-form {
+      position: relative;
+      margin-top: -20px;
+    }
+    span {
+      font-size: 0;
+      &:before {
+        content: "\f002";
+        .iconfont;
+        font-size: 16px;
+        position: absolute;
+        right: 1px;
+        top: 28px;
+        text-align: center;
+        height: 47px;
+        line-height: 47px;
+        width: 48px;
+        display: block;
+      }
+    }
+    input[type="search"] {
+      background-color: #fff;
+      padding: 15px;
+      margin-bottom: 0;
+    }
+    .search-submit {
+      display: none;
+    }
+  }
+}
+
+// Recent posts
+.sidebar, .wpb_widgetised_column {
+  .recent-posts__item {
+    display: block;
+    border-bottom: 1px solid #EEEEEE;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .recent-posts__item {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .recent-posts > div:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Categories
+.sidebar, .wpb_widgetised_column {
+  ul li {
+    list-style-type: none;
+    margin-bottom: 10px;
+
+    a {
+      color: #777;
+      &:before {
+        .iconfont;
+        content: '\f0ad';
+        font-size: 12px;
+        display: inline-block;
+        margin-right: 10px;
+      }
+    }
+  }
+  .children {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding-top: 10px;
+    padding-left: 15px;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}
+
+// Tags Cloud
+.sidebar, .wpb_widgetised_column {
+  .widget_tag_cloud {
+    .tagcloud {
+      a {
+        font-size: 15px !important;
+        border: 2px solid #ddd;
+        display: inline-block;
+        padding: 5px 12px;
+        margin-right: 2px;
+        margin-bottom: 8px;
+      }
+    }
+  }
+}
+
+// Better Menu
+.sidebar, .wpb_widgetised_column {
+  .better-menu-widget {
+  }
+}
+
+// Pages
+.sidebar, .wpb_widgetised_column {
+  .widget_pages {
+    ul {
+      li {
+        display: block;
+      }
+    }
+  }
+}
+
+// Recent comments
+.sidebar, .wpb_widgetised_column {
+  .widget_rss {
+    .rsswidget {
+      font-weight: 600;
+    }
+  }
+}
+.sidebar, .wpb_widgetised_column {
+  .widget_recent_comments {
+    .comment-author-link {
+      font-weight: 600;
+    }
+    a:before {
+      display: none;
+    }
+  }
+}

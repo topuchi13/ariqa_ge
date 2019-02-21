@@ -1,0 +1,26 @@
+{
+  "label": "Preset 2",
+  "image": "images/preset2.png",
+  "settings": {
+    "header_type": "header02",
+    "header_bg_color": "#fff",
+    "header_style_font_color": "#222",
+    "header_style_search_text_color": "#fff",
+    "header_style_minicart_icon_color": "#fff",
+    "header_style_minicart_number_color": "#222",
+    "header_bg_minicart_number_bg": "#fbd232",
+    "social_links_color": "#fff",
+    "social_links_color_hover": "#fff",
+    "nav_spacing_menu_text_padding": {
+      "top": "27px",
+      "bottom": "26px",
+      "left": "40px",
+      "right": "15px"
+    },
+    "nav_bg_menu_background": "#fbd232",
+    "nav_style_menu_text": "#222",
+    "nav_style_menu_text_hover": "#fff",
+    "nav_bg_menu_text_bg": "#fbd232",
+    "nav_bg_menu_text_bg_hover": "#222"
+  }
+}

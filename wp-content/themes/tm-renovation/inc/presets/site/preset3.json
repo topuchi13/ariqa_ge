@@ -1,0 +1,18 @@
+{
+  "label": "Preset 3",
+  "image": "images/preset3.png",
+  "settings": {
+    "header_type": "header03",
+    "header_bg_color": "#fff",
+    "top_padding": {
+      "top": "14px",
+      "bottom": "14px",
+      "left": "0",
+      "right": "0"
+    },
+    "header_style_search_text_color": "#222",
+    "header_style_minicart_icon_color": "#222",
+    "header_style_minicart_number_color": "#222",
+    "header_bg_minicart_number_bg": "#fbd232"
+  }
+}

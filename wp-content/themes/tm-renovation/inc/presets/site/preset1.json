@@ -1,0 +1,7 @@
+{
+  "label": "Preset 1",
+  "image": "images/preset1.png",
+  "settings": {
+    "header_type": "header01"
+  }
+}

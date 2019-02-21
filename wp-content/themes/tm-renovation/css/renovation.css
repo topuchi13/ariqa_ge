@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'renovation';
+    src:url('../fonts/renovation.eot?5x3vh0');
+    src:url('../fonts/renovation.eot?#iefix5x3vh0') format('embedded-opentype'),
+    url('../fonts/renovation.ttf?5x3vh0') format('truetype'),
+    url('../fonts/renovation.woff?5x3vh0') format('woff'),
+    url('../fonts/renovation.svg?5x3vh0#renovation') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="rn-"], [class*=" rn-"] {
+    font-family: 'renovation';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.rn-door:before {
+    content: "\e600";
+}
+.rn-electrical:before {
+    content: "\e601";
+}
+.rn-home:before {
+    content: "\e602";
+}
+.rn-painting:before {
+    content: "\e603";
+}
+.rn-plumbing:before {
+    content: "\e604";
+}
+.rn-tools:before {
+    content: "\e605";
+}
+.rn-heating:before {
+    content: "\e606";
+}
+.rn-renovation:before {
+    content: "\e607";
+}
+.rn-drywall:before {
+    content: "\e608";
+}
+.rn-drill:before {
+    content: "\e609";
+}
+.rn-gear:before {
+    content: "\e60a";
+}
+.rn-wall:before {
+    content: "\e60b";
+}
+.rn-windows:before {
+    content: "\e60c";
+}

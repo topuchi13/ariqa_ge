@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27e016f8-4c01-425c-8f11-6d9dbc3d24f3" name="Default" comment="" />
+    <ignored path="thememove-core.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="../../node_modules/" />
+    <ignored path=".idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="thememove-core" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/popup/assets/css/magnific-popup.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/popup/popup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thememove-core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thememove-core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="73" column="48" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/TM_TM_CMB2_Type_Select2.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/CMB2_Type_Post_Search.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_Post_Search.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/CMB2_Type_RGBa_Picker.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/js/select2.min.js" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/css/select2.min.css" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/js/cmb2-select2.js" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_Select2.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/CMB2_Types.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/types/CMB2_Type_Checkbox.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/CMB2_Field.php" />
+        <option value="$PROJECT_DIR$/popup/assets/js/jquery.magnific-popup.min.js" />
+        <option value="$PROJECT_DIR$/popup/assets/js/popup.js" />
+        <option value="$PROJECT_DIR$/popup/assets/css/animate.css" />
+        <option value="$PROJECT_DIR$/mobble.php" />
+        <option value="$PROJECT_DIR$/popup/assets/css/popup.css" />
+        <option value="$PROJECT_DIR$/popup/assets/js/jquery.cookie.min.js" />
+        <option value="$PROJECT_DIR$/popup/includes/CMB2_Type_Popup_Display.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/css/cmb2-custom-types.css" />
+        <option value="$PROJECT_DIR$/popup/assets/css/metabox.css" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_Number.php" />
+        <option value="$USER_HOME$/htdocs/test/wp-includes/meta.php" />
+        <option value="$USER_HOME$/htdocs/wp_renovation/wp-includes/post.php" />
+        <option value="$USER_HOME$/htdocs/wp_renovation/wp-includes/meta.php" />
+        <option value="$PROJECT_DIR$/popup/template.php" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/CMB2_Custom_Types.php" />
+        <option value="$USER_HOME$/htdocs/wp_renovation/wp-content/plugins/thememove-core/popup/popup.php" />
+        <option value="$PROJECT_DIR$/customizer/io-customizer.php" />
+        <option value="$PROJECT_DIR$/customizer/io.php" />
+        <option value="$PROJECT_DIR$/customizer/io-control.php" />
+        <option value="$PROJECT_DIR$/customizer/import/import.php" />
+        <option value="$PROJECT_DIR$/customizer/export/export.php" />
+        <option value="$PROJECT_DIR$/export/export.php" />
+        <option value="$PROJECT_DIR$/export/export-page.php" />
+        <option value="$PROJECT_DIR$/mega-menu/mega-menu.php" />
+        <option value="$USER_HOME$/htdocs/wp_renovation/wp-content/themes/tm-renovation/js/main.js" />
+        <option value="$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_RGBa_Picker.php" />
+        <option value="$PROJECT_DIR$/import/parsers.php" />
+        <option value="$PROJECT_DIR$/import/assets/js/admin.js" />
+        <option value="$PROJECT_DIR$/popup/assets/js/metabox.js" />
+        <option value="$USER_HOME$/htdocs/wp_default/wp-content/plugins/thememove-core/import/import-page.php" />
+        <option value="$PROJECT_DIR$/import/assets/css/import.css" />
+        <option value="$USER_HOME$/htdocs/wp_default/wp-content/plugins/thememove-core/import/assets/js/import.js" />
+        <option value="$PROJECT_DIR$/import/run.importer.php" />
+        <option value="$PROJECT_DIR$/import/import-page.php" />
+        <option value="$PROJECT_DIR$/import/thememove.importer.php" />
+        <option value="$PROJECT_DIR$/import/assets/js/import.js" />
+        <option value="$PROJECT_DIR$/import/import.php" />
+        <option value="$PROJECT_DIR$/thememove-core.php" />
+        <option value="$PROJECT_DIR$/popup/popup.php" />
+        <option value="$PROJECT_DIR$/popup/assets/css/magnific-popup.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="$USER_HOME$/htdocs/wp_default" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1335" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="popup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="popup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="popup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thememove-core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="import" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Changed Files" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="project.propVCSSupport.Background" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/HKA/Git/thememove-framework/src/thememove-core/import/run.importer.php" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="409" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="426" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="429" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1224" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="420" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="422" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="426" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1220" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/popup/assets" />
+      <recent name="$PROJECT_DIR$/popup/assests" />
+      <recent name="$PROJECT_DIR$/popup" />
+      <recent name="$PROJECT_DIR$/popup/metabox/js" />
+      <recent name="$PROJECT_DIR$/popup/metabox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Anh\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27e016f8-4c01-425c-8f11-6d9dbc3d24f3" name="Default" comment="" />
+      <created>1464596848213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1464596848213</updated>
+      <workItem from="1464596849539" duration="1202000" />
+      <workItem from="1464601740050" duration="378000" />
+      <workItem from="1464602198840" duration="1547000" />
+      <workItem from="1464776553442" duration="1361000" />
+      <workItem from="1464829958322" duration="8261000" />
+      <workItem from="1464841720709" duration="842000" />
+      <workItem from="1464842853180" duration="14980000" />
+      <workItem from="1464918018260" duration="16909000" />
+      <workItem from="1465006001575" duration="14677000" />
+      <workItem from="1465039906152" duration="40000" />
+      <workItem from="1465178018674" duration="85476000" />
+      <workItem from="1465380896669" duration="2608000" />
+      <workItem from="1465435960876" duration="16338000" />
+      <workItem from="1465460027666" duration="65000" />
+      <workItem from="1465460665062" duration="10160000" />
+      <workItem from="1465639543743" duration="1067000" />
+      <workItem from="1465786935395" duration="75000" />
+      <workItem from="1465787054452" duration="6789000" />
+      <workItem from="1465898631025" duration="219000" />
+      <workItem from="1465957290320" duration="313000" />
+      <workItem from="1465957731474" duration="25000" />
+      <workItem from="1465957933278" duration="448000" />
+      <workItem from="1469770453690" duration="368000" />
+      <workItem from="1469779224361" duration="7939000" />
+      <workItem from="1470908348227" duration="4444000" />
+      <workItem from="1470965503702" duration="3693000" />
+      <workItem from="1471249278852" duration="9492000" />
+      <workItem from="1471311149929" duration="11332000" />
+      <workItem from="1472435674850" duration="26247000" />
+      <workItem from="1472523025076" duration="21878000" />
+      <workItem from="1472606497597" duration="19720000" />
+      <workItem from="1472693814311" duration="17835000" />
+      <workItem from="1473038477240" duration="24015000" />
+      <workItem from="1473073887880" duration="164000" />
+      <workItem from="1473126235939" duration="22045000" />
+      <workItem from="1473643691661" duration="7331000" />
+      <workItem from="1473730396619" duration="1733000" />
+      <workItem from="1473815661898" duration="3900000" />
+      <workItem from="1473903735448" duration="2092000" />
+      <workItem from="1473906682513" duration="16000" />
+      <workItem from="1473923551454" duration="1361000" />
+      <workItem from="1473989252702" duration="50000" />
+      <workItem from="1474023245546" duration="852000" />
+      <workItem from="1474248578234" duration="1644000" />
+      <workItem from="1474615699434" duration="148000" />
+      <workItem from="1474616404235" duration="703000" />
+      <workItem from="1474859752012" duration="23237000" />
+      <workItem from="1474962127281" duration="10236000" />
+      <workItem from="1475025980146" duration="9145000" />
+      <workItem from="1475113201209" duration="168000" />
+      <workItem from="1475223554399" duration="1043000" />
+      <workItem from="1475316598093" duration="1506000" />
+      <workItem from="1475458914583" duration="1223000" />
+      <workItem from="1475634859924" duration="1667000" />
+      <workItem from="1475714274085" duration="8125000" />
+      <workItem from="1475729331914" duration="346000" />
+      <workItem from="1475802424310" duration="247000" />
+      <workItem from="1475804212443" duration="15903000" />
+      <workItem from="1476063286508" duration="25962000" />
+      <workItem from="1476147845573" duration="20086000" />
+      <workItem from="1476242322219" duration="7797000" />
+      <workItem from="1476321547942" duration="3927000" />
+      <workItem from="1476346014250" duration="1077000" />
+      <workItem from="1476431904817" duration="3924000" />
+      <workItem from="1477279385181" duration="1587000" />
+    </task>
+    <task id="LOCAL-00081" summary="added product popup">
+      <created>1472729234951</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1472729234951</updated>
+    </task>
+    <task id="LOCAL-00082" summary="set default display to delay">
+      <created>1473044897658</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1473044897659</updated>
+    </task>
+    <task id="LOCAL-00083" summary="optimize css and check close the popup on the current page">
+      <created>1473045946263</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1473045946263</updated>
+    </task>
+    <task id="LOCAL-00084" summary="check user role for popup">
+      <created>1473046853040</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1473046853041</updated>
+    </task>
+    <task id="LOCAL-00085" summary="optimize front end scripts enqueue">
+      <created>1473047862815</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1473047862815</updated>
+    </task>
+    <task id="LOCAL-00086" summary="show popup in mobile or not mobile devices">
+      <created>1473048514574</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1473048514574</updated>
+    </task>
+    <task id="LOCAL-00087" summary="add cookie for popup">
+      <created>1473058215210</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1473058215210</updated>
+    </task>
+    <task id="LOCAL-00088" summary="1 popup only show in 1 page">
+      <created>1473066464823</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1473066464823</updated>
+    </task>
+    <task id="LOCAL-00089" summary="add active option">
+      <created>1473068719100</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1473068719100</updated>
+    </task>
+    <task id="LOCAL-00090" summary="style for popup metabox">
+      <created>1473070344042</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1473070344042</updated>
+    </task>
+    <task id="LOCAL-00091" summary="change class for number field">
+      <created>1473071478173</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1473071478173</updated>
+    </task>
+    <task id="LOCAL-00092" summary="fix js for active checkbox">
+      <created>1473072337304</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1473072337304</updated>
+    </task>
+    <task id="LOCAL-00093" summary="fix js for close_hide checkbox">
+      <created>1473072673566</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1473072673567</updated>
+    </task>
+    <task id="LOCAL-00094" summary="optimize for display in all posts, pages, products">
+      <created>1473147769439</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1473147769439</updated>
+    </task>
+    <task id="LOCAL-00095" summary="change description of animation">
+      <created>1473150527338</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1473150527338</updated>
+    </task>
+    <task id="LOCAL-00096" summary="fix is_shop in custom pages">
+      <created>1473152063457</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1473152063457</updated>
+    </task>
+    <task id="LOCAL-00097" summary="ThemeMove Core 1.3.5 - support popup">
+      <created>1473157322373</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1473157322373</updated>
+    </task>
+    <task id="LOCAL-00098" summary="check popup shown by js instead of PHP">
+      <created>1473666814018</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1473666814018</updated>
+    </task>
+    <task id="LOCAL-00099" summary="bring rgba picker control back">
+      <created>1473904842103</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1473904842104</updated>
+    </task>
+    <task id="LOCAL-00100" summary="add rgba picker again">
+      <created>1473904956499</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1473904956499</updated>
+    </task>
+    <task id="LOCAL-00101" summary="zip file">
+      <created>1473904981182</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1473904981182</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Fix import menu item failed">
+      <created>1474865947241</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1474865947241</updated>
+    </task>
+    <task id="LOCAL-00103" summary="check post exists for popup">
+      <created>1474865982277</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1474865982277</updated>
+    </task>
+    <task id="LOCAL-00104" summary="update import for tag_item">
+      <created>1474873315012</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1474873315012</updated>
+    </task>
+    <task id="LOCAL-00105" summary="added multi media packages">
+      <created>1474882277894</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1474882277894</updated>
+    </task>
+    <task id="LOCAL-00106" summary="zip file">
+      <created>1474882855831</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1474882855831</updated>
+    </task>
+    <task id="LOCAL-00107" summary="fix for generate vc_custom_css of megamenu">
+      <created>1474967711102</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1474967711102</updated>
+    </task>
+    <task id="LOCAL-00108" summary="bring export / import customizer options back">
+      <created>1474970833880</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1474970833881</updated>
+    </task>
+    <task id="LOCAL-00109" summary="optimize code">
+      <created>1474973225524</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1474973225524</updated>
+    </task>
+    <task id="LOCAL-00110" summary="added export customizer options">
+      <created>1475030013523</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1475030013523</updated>
+    </task>
+    <task id="LOCAL-00111" summary="added import customizer options">
+      <created>1475032916079</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1475032916079</updated>
+    </task>
+    <task id="LOCAL-00112" summary="VERSION 1.3.6">
+      <created>1475033077496</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1475033077496</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Load rgba-picker js only in page">
+      <created>1475317071225</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1475317071225</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Fix import for WooCommerce attributes &amp; added import Insight Attribute Swatches settings">
+      <created>1475726791416</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1475726791416</updated>
+    </task>
+    <task id="LOCAL-00115" summary="version 1.3.7">
+      <created>1475726941888</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1475726941888</updated>
+    </task>
+    <task id="LOCAL-00116" summary="updating ajax import dummy">
+      <created>1475835963018</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1475835963018</updated>
+    </task>
+    <task id="LOCAL-00117" summary="optimize thememove.importer.php class">
+      <created>1476069257743</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1476069257743</updated>
+    </task>
+    <task id="LOCAL-00118" summary="updating ajax import dummies">
+      <created>1476097691788</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1476097691788</updated>
+    </task>
+    <task id="LOCAL-00119" summary="completed Dummy Importer">
+      <created>1476167878951</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1476167878951</updated>
+    </task>
+    <task id="LOCAL-00120" summary="remove notice before dummy import">
+      <created>1476177205778</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1476177205778</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Fixed Flag when importing full demo or dummy">
+      <created>1476183693488</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1476183693488</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Fixed download missing images">
+      <created>1476248361085</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1476248361085</updated>
+    </task>
+    <task id="LOCAL-00123" summary="bring imported flag back">
+      <created>1476249589954</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1476249589954</updated>
+    </task>
+    <task id="LOCAL-00124" summary="change option name from customizer_options to customizer">
+      <created>1476261409108</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1476261409108</updated>
+    </task>
+    <task id="LOCAL-00125" summary="reset customizer options before importing">
+      <created>1476343765269</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1476343765269</updated>
+    </task>
+    <task id="LOCAL-00126" summary="zip version 1.3.8">
+      <created>1476343916374</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1476343916374</updated>
+    </task>
+    <task id="LOCAL-00127" summary="remove 'thememove_import_package_url' filter">
+      <created>1476438937965</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1476438937966</updated>
+    </task>
+    <task id="LOCAL-00128" summary="VERSION 1.3.8.1">
+      <created>1476438998396</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1476438998396</updated>
+    </task>
+    <task id="LOCAL-00129" summary="fix duplicate close button on popup">
+      <created>1477280607634</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1477280607634</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="509988000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1335" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18030183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286771" sideWeight="0.5015886" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286771" sideWeight="0.49841145" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286771" sideWeight="0.49841145" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25308135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="added multi media packages" />
+    <MESSAGE value="zip file" />
+    <MESSAGE value="fix for generate vc_custom_css of megamenu" />
+    <MESSAGE value="bring export / import customizer options back" />
+    <MESSAGE value="optimize code" />
+    <MESSAGE value="added export customizer options" />
+    <MESSAGE value="added import customizer options" />
+    <MESSAGE value="VERSION 1.3.6" />
+    <MESSAGE value="Load rgba-picker js only in page" />
+    <MESSAGE value="Fix import for WooCommerce attributes &amp; added import Insight Attribute Swatches settings" />
+    <MESSAGE value="version 1.3.7" />
+    <MESSAGE value="updating ajax import dummy" />
+    <MESSAGE value="optimize thememove.importer.php class" />
+    <MESSAGE value="updating ajax import dummies" />
+    <MESSAGE value="completed Dummy Importer" />
+    <MESSAGE value="remove notice before dummy import" />
+    <MESSAGE value="Fixed Flag when importing full demo or dummy" />
+    <MESSAGE value="Fixed download missing images" />
+    <MESSAGE value="bring imported flag back" />
+    <MESSAGE value="change option name from customizer_options to customizer" />
+    <MESSAGE value="reset customizer options before importing" />
+    <MESSAGE value="zip version 1.3.8" />
+    <MESSAGE value="remove 'thememove_import_package_url' filter" />
+    <MESSAGE value="VERSION 1.3.8.1" />
+    <MESSAGE value="fix duplicate close button on popup" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix duplicate close button on popup" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$USER_HOME$/htdocs/wp_default</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="669" column="13" selection-start-line="669" selection-start-column="13" selection-end-line="669" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_default/wp-includes/class-wp-customize-control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-743">
+          <caret line="466" column="21" selection-start-line="466" selection-start-column="21" selection-end-line="466" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/class-wp-customize-control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customizer/io-control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customizer/import/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customizer/io.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-content/themes/tm-renovation/inc/variables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-admin/css/colors/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export/export-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1027">
+          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-content/themes/tm-renovation/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/js/cmb2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-content/themes/tm-renovation/inc/import/files/thememove01/content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/parsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="608" column="5" selection-start-line="608" selection-start-column="5" selection-end-line="608" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="770" column="3" selection-start-line="770" selection-start-column="3" selection-end-line="770" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup/assets/js/metabox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/js/cmb2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_default/wp-content/plugins/thememove-core/import/import-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mega-menu/mega-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="105" column="45" selection-start-line="105" selection-start-column="45" selection-end-line="105" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_default/wp-content/themes/tm-molly/woocommerce/woo-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="253" column="9" selection-start-line="253" selection-start-column="9" selection-end-line="253" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_default/wp-includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="3033" column="9" selection-start-line="3033" selection-start-column="9" selection-end-line="3033" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_default/wp-content/plugins/thememove-core/import/assets/js/import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="134" column="85" selection-start-line="134" selection-start-column="85" selection-end-line="134" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/formatting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1015" column="2" selection-start-line="1015" selection-start-column="2" selection-end-line="1015" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="2130" column="7" selection-start-line="2130" selection-start-column="7" selection-end-line="2130" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/nav-menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/deprecated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="3627" column="20" selection-start-line="3627" selection-start-column="9" selection-end-line="3627" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/class-http.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="280" column="64" selection-start-line="280" selection-start-column="56" selection-end-line="280" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-content/plugins/revslider/includes/slider.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1129">
+          <caret line="1015" column="86" selection-start-line="1015" selection-start-column="86" selection-end-line="1015" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="223" column="42" selection-start-line="223" selection-start-column="42" selection-end-line="223" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/assets/css/import.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customizer/export/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/languages/cmb2-vi.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5236">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="89" column="44" selection-start-line="89" selection-start-column="43" selection-end-line="89" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_Post_Search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="296" column="17" selection-start-line="296" selection-start-column="17" selection-end-line="296" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_RGBa_Picker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_Select2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmb2/includes/custom-types/TM_CMB2_Type_Number.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-content/plugins/thememove-core/import/assets/js/import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="97" column="61" selection-start-line="97" selection-start-column="61" selection-end-line="97" selection-end-column="61" />
+          <folding>
+            <element signature="n#need_process#0;n#ThemeMove_Import#0;n#!!top" expanded="false" />
+            <element signature="n#load_importers#0;n#ThemeMove_Import#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/assets/js/import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/thememove.importer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="482" column="23" selection-start-line="482" selection-start-column="16" selection-end-line="482" selection-end-column="23" />
+          <folding>
+            <element signature="e#565#767#0#PHP" expanded="false" />
+            <element signature="e#682#765#0#PHP" expanded="false" />
+            <element signature="e#797#897#0#PHP" expanded="false" />
+            <element signature="e#899#1029#0#PHP" expanded="false" />
+            <element signature="e#2022#2499#0#PHP" expanded="false" />
+            <element signature="e#2113#2239#0#PHP" expanded="false" />
+            <element signature="e#2318#2495#0#PHP" expanded="false" />
+            <element signature="e#2419#2495#0#PHP" expanded="false" />
+            <element signature="e#2503#2562#0#PHP" expanded="false" />
+            <element signature="e#2565#4221#0#PHP" expanded="false" />
+            <element signature="e#2634#3585#0#PHP" expanded="false" />
+            <element signature="e#2815#3061#0#PHP" expanded="false" />
+            <element signature="e#2834#3005#0#PHP" expanded="false" />
+            <element signature="e#2942#2993#0#PHP" expanded="false" />
+            <element signature="e#3095#3585#0#PHP" expanded="false" />
+            <element signature="e#3249#3474#0#PHP" expanded="false" />
+            <element signature="e#3268#3418#0#PHP" expanded="false" />
+            <element signature="e#3355#3406#0#PHP" expanded="false" />
+            <element signature="e#4143#4197#0#PHP" expanded="false" />
+            <element signature="e#4225#4293#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/import-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="134" column="24" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/run.importer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thememove-core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/htdocs/wp_renovation/wp-includes/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="1913" column="9" selection-start-line="1913" selection-start-column="9" selection-end-line="1913" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup/popup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popup/assets/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

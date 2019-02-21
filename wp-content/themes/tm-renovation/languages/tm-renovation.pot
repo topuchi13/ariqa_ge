@@ -1,0 +1,2912 @@
+# Copyright (C) 2018 tm-renovation
+# This file is distributed under the same license as the tm-renovation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tm-renovation\n"
+"Report-Msgid-Bugs-To: http://thememove.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Language-Team: ThemeMove <thememovedotcom@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/tm-renovation/404.php:15
+msgid "Page not found"
+msgstr ""
+
+#: src/tm-renovation/404.php:16
+msgid "Whoops, sorry, this page does not exist."
+msgstr ""
+
+#: src/tm-renovation/404.php:17
+msgid "Go back home"
+msgstr ""
+
+#: src/tm-renovation/comments.php:28
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments "
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/comments.php:36, src/tm-renovation/comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: src/tm-renovation/comments.php:37, src/tm-renovation/comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: src/tm-renovation/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: src/tm-renovation/comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: src/tm-renovation/comments.php:82
+msgid "Your name (required)"
+msgstr ""
+
+#: src/tm-renovation/comments.php:83
+msgid "Email (required)"
+msgstr ""
+
+#: src/tm-renovation/comments.php:94
+msgid "Your Comment (required)"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-compatible.php:53, src/tm-renovation/core/framework/class-compatible.php:63, src/tm-renovation/core/framework/class-compatible.php:75
+msgid "ThemeMove requires at least WordPress version 3.9. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-import.php:30, src/tm-renovation/inc/vc-shortcode/thememove-button.php:48, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:23
+msgid "Renovation"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:137
+msgid "Primary Menu"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:144
+msgid "Top Right Menu"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:150
+msgid "Top Left Menu"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:164
+msgid "Sidebar"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:175
+msgid "Top Left Widget Area"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:177
+msgid "Only available for Header Type 03"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:186
+msgid "Header Right"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:198
+msgid "Sidebar for shop"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:210
+msgid "Footer 1 Widget Area"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:221
+msgid "Footer 2 Widget Area"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-init.php:232
+msgid "Footer 3 Widget Area"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:51, src/tm-renovation/inc/customizer/nav/nav_desktop.php:10
+msgid "Sticky Menu"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:52
+msgid "Custom settings for sticky menu"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:56, src/tm-renovation/core/framework/class-metabox.php:68, src/tm-renovation/core/framework/class-metabox.php:87, src/tm-renovation/core/framework/class-metabox.php:108, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:58
+msgid "Default"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:57, src/tm-renovation/core/framework/class-metabox.php:69
+msgid "Enable"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:58, src/tm-renovation/core/framework/class-metabox.php:70
+msgid "Disable"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:63
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:64
+msgid "Custom settings for breadcrumb"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:75
+msgid "Custom Logo"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:76
+msgid "Upload an image or enter a URL for logo"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:82
+msgid "Page Layout"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:83
+msgid "Choose a layout you want"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:88
+msgid "Full width"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:89
+msgid "Content-Sidebar"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:90
+msgid "Sidebar-Content"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:95
+msgid "Disable Title"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:96
+msgid "Check this box to disable the title of the page"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:102
+msgid "Title Style"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:103
+msgid "Choose style for the title of the page"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:109, src/tm-renovation/core/framework/class-metabox.php:116, src/tm-renovation/inc/customizer/page/page_title.php:31, src/tm-renovation/inc/customizer/post/post_title.php:97
+msgid "Image Background"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:110, src/tm-renovation/inc/customizer/page/page_title.php:32, src/tm-renovation/inc/customizer/post/post_title.php:98
+msgid "Big Image Background"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:111, src/tm-renovation/inc/customizer/page/page_title.php:33, src/tm-renovation/inc/customizer/post/post_title.php:99
+msgid "Single Color Background"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:117
+msgid "Upload an image or enter a URL for heading title"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:124
+msgid "Disable Parallax"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:125
+msgid "Check this box to disable parallax effect for heading title"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:131
+msgid "Title Background Color"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:132
+msgid "Pick a background color for heading title"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:139
+msgid "Title Color"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:140
+msgid "Pick a color for heading title"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:147
+msgid "Alternative Title"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:148
+msgid "Enter your alternative title here"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:154
+msgid "Disable Comment"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:161
+msgid "Custom Class"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:162
+msgid "Enter custom class for this page"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:175
+msgid "Default (inherit from Customizer)"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:183
+msgid "If you choose 'Default' option, then page will load settings in Customizer."
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-metabox.php:206
+msgid "Page Settings"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:35, src/tm-renovation/inc/vc-template/thememove_project_details.php:50, src/tm-renovation/projects/single-project/meta.php:59
+msgid "Location"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:36
+msgid "Enter a location for this project."
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:43, src/tm-renovation/projects/single-project/meta.php:45
+msgid "Date Completed"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:44
+msgid "Enter a date Completed for this project."
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:51, src/tm-renovation/inc/vc-template/thememove_project_details.php:58, src/tm-renovation/projects/single-project/meta.php:66
+msgid "Value"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:52
+msgid "Enter a value for this project."
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:62
+msgid "Use Visual Composer"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-project.php:63
+msgid "Use Visual Composer for this project"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:95
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:100
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:115, src/tm-renovation/core/framework/class-templates.php:121, src/tm-renovation/template-parts/content-list.php:29, src/tm-renovation/template-parts/content-search.php:23, src/tm-renovation/template-parts/content-single.php:20, src/tm-renovation/template-parts/content.php:21
+msgid ", "
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:117
+msgid "Posted in %1$s"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:123
+msgid "Tagged %1$s"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:129
+msgid "Leave a comment"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:129
+msgid "1 Comment"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:129
+msgid "% Comments"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:133
+msgid "Edit"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:190
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:198
+msgid "%1$s"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:199
+msgid "(Edit)"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-templates.php:436
+msgid "View your shopping cart"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-vc.php:101
+msgid "Renovation | by Renovation"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-vc.php:102
+msgid "Classic"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-vc.php:103
+msgid "Modern"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-vc.php:104
+msgid "Flat"
+msgstr ""
+
+#: src/tm-renovation/core/framework/class-vc.php:105
+msgid "Outline"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/breadcrumb/_breadcrumb.php:7
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/breadcrumb/breadcrumb_options.php:9, src/tm-renovation/inc/customizer/panels.php:49
+msgid "Breadcrumb"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/breadcrumb/breadcrumb_options.php:10
+msgid "Enabling this option will display breadcrumb on every page"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/breadcrumb/breadcrumb_options.php:19
+msgid "\"Home\" text"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/breadcrumb/breadcrumb_options.php:35
+msgid "\"You are here\" text"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/_button.php:8, src/tm-renovation/inc/customizer/copyright/_copyright.php:14, src/tm-renovation/inc/customizer/page/_page.php:8, src/tm-renovation/inc/customizer/post/_post.php:8, src/tm-renovation/inc/customizer/woo/_woo.php:8
+msgid "Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/_button.php:9
+msgid "In this section you can control all layout settings of buttons"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/_button.php:15, src/tm-renovation/inc/customizer/copyright/_copyright.php:20, src/tm-renovation/inc/customizer/footer/_footer.php:14, src/tm-renovation/inc/customizer/panels.php:28, src/tm-renovation/inc/customizer/typo/typo_links.php:9, src/tm-renovation/inc/customizer/woo/_woo.php:14, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:149
+msgid "Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_color.php:10, src/tm-renovation/inc/customizer/copyright/copyright_color.php:12, src/tm-renovation/inc/customizer/footer/footer_color.php:10, src/tm-renovation/inc/customizer/header/header_minicart.php:40
+msgid "Text Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_color.php:11, src/tm-renovation/inc/customizer/button/button_color.php:65, src/tm-renovation/inc/customizer/copyright/copyright_color.php:37, src/tm-renovation/inc/customizer/footer/footer_color.php:29, src/tm-renovation/inc/customizer/nav/nav_desktop.php:100, src/tm-renovation/inc/customizer/nav/nav_desktop.php:139, src/tm-renovation/inc/customizer/nav/nav_desktop.php:252, src/tm-renovation/inc/customizer/nav/nav_desktop.php:287, src/tm-renovation/inc/customizer/social/social_footer.php:10, src/tm-renovation/inc/customizer/social/social_footer.php:63, src/tm-renovation/inc/customizer/social/social.php:87, src/tm-renovation/inc/customizer/social/social.php:142, src/tm-renovation/inc/customizer/top/top_style.php:71, src/tm-renovation/inc/customizer/woo/woo_color.php:164, src/tm-renovation/inc/customizer/woo/woo_color.php:209, src/tm-renovation/inc/customizer/woo/woo_color.php:276
+msgid "Normal State"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_color.php:37, src/tm-renovation/inc/customizer/button/button_color.php:94, src/tm-renovation/inc/customizer/copyright/copyright_color.php:61, src/tm-renovation/inc/customizer/footer/footer_color.php:47, src/tm-renovation/inc/customizer/nav/nav_desktop.php:117, src/tm-renovation/inc/customizer/nav/nav_desktop.php:168, src/tm-renovation/inc/customizer/nav/nav_desktop.php:269, src/tm-renovation/inc/customizer/nav/nav_desktop.php:307, src/tm-renovation/inc/customizer/social/social_footer.php:36, src/tm-renovation/inc/customizer/social/social_footer.php:93, src/tm-renovation/inc/customizer/social/social.php:114, src/tm-renovation/inc/customizer/social/social.php:179, src/tm-renovation/inc/customizer/top/top_style.php:95, src/tm-renovation/inc/customizer/woo/woo_color.php:188, src/tm-renovation/inc/customizer/woo/woo_color.php:236, src/tm-renovation/inc/customizer/woo/woo_color.php:304
+msgid "Hover State"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_color.php:64, src/tm-renovation/inc/customizer/copyright/copyright_color.php:85, src/tm-renovation/inc/customizer/footer/footer_color.php:80, src/tm-renovation/inc/customizer/header/header_layout.php:60, src/tm-renovation/inc/customizer/layout/layout_bg.php:9, src/tm-renovation/inc/customizer/post/post_title.php:138, src/tm-renovation/inc/customizer/top/top_style.php:12
+msgid "Background color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_color.php:124, src/tm-renovation/inc/customizer/button/button_color.php:125, src/tm-renovation/inc/customizer/button/button_color.php:146, src/tm-renovation/inc/customizer/footer/footer_color.php:100, src/tm-renovation/inc/customizer/header/header_border.php:50, src/tm-renovation/inc/customizer/top/top_border.php:64
+msgid "Border color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:9, src/tm-renovation/inc/customizer/header/header_layout.php:27, src/tm-renovation/inc/customizer/nav/nav_desktop.php:54, src/tm-renovation/inc/customizer/nav/nav_desktop.php:210
+msgid "Font Settings"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:41, src/tm-renovation/inc/customizer/copyright/copyright_layout.php:34, src/tm-renovation/inc/customizer/footer/footer_layout.php:31, src/tm-renovation/inc/customizer/header/header_spacing.php:12, src/tm-renovation/inc/customizer/page/page_layout.php:26, src/tm-renovation/inc/customizer/post/post_layout.php:26, src/tm-renovation/inc/customizer/top/top_spacing.php:12
+msgid "Padding"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:67, src/tm-renovation/inc/customizer/copyright/copyright_layout.php:62, src/tm-renovation/inc/customizer/footer/footer_layout.php:53, src/tm-renovation/inc/customizer/header/header_spacing.php:33, src/tm-renovation/inc/customizer/top/top_spacing.php:42
+msgid "Margin"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:93, src/tm-renovation/inc/customizer/footer/footer_layout.php:75, src/tm-renovation/inc/customizer/header/header_border.php:12, src/tm-renovation/inc/customizer/top/top_border.php:12
+msgid "Border width"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:114, src/tm-renovation/inc/customizer/footer/footer_layout.php:91, src/tm-renovation/inc/customizer/header/header_border.php:28, src/tm-renovation/inc/customizer/top/top_border.php:35
+msgid "Border style"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:120, src/tm-renovation/inc/customizer/footer/footer_layout.php:97, src/tm-renovation/inc/customizer/header/header_border.php:34, src/tm-renovation/inc/customizer/top/top_border.php:41
+msgid "Solid"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:121, src/tm-renovation/inc/customizer/footer/footer_layout.php:98, src/tm-renovation/inc/customizer/header/header_border.php:35, src/tm-renovation/inc/customizer/top/top_border.php:42
+msgid "Dashed"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:122, src/tm-renovation/inc/customizer/footer/footer_layout.php:99, src/tm-renovation/inc/customizer/header/header_border.php:36, src/tm-renovation/inc/customizer/top/top_border.php:43
+msgid "Dotted"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/button/button_layout.php:123, src/tm-renovation/inc/customizer/footer/footer_layout.php:100, src/tm-renovation/inc/customizer/header/header_border.php:37, src/tm-renovation/inc/customizer/top/top_border.php:44
+msgid "Double"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/color/_color.php:6
+msgid "Color Settings"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/color/color_settings.php:10, src/tm-renovation/inc/customizer/woo/woo_color.php:12
+msgid "Primary color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/color/color_settings.php:231, src/tm-renovation/inc/customizer/woo/woo_color.php:65
+msgid "Secondary color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/copyright/_copyright.php:8, src/tm-renovation/inc/customizer/top/_top.php:8
+msgid "Visibility"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/copyright/copyright_color.php:36, src/tm-renovation/inc/customizer/footer/footer_color.php:28, src/tm-renovation/inc/customizer/nav/nav_desktop.php:99, src/tm-renovation/inc/customizer/nav/nav_desktop.php:251, src/tm-renovation/inc/customizer/top/top_style.php:70
+msgid "Link Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/copyright/copyright_color.php:86
+msgid "Setup background color for your footer"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/copyright/copyright_layout.php:10
+msgid "Content"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/copyright/copyright_visibility.php:9, src/tm-renovation/inc/customizer/panels.php:70
+msgid "Copyright"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/copyright/copyright_visibility.php:10
+msgid "Enabling this option will display copyright area"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/custom/_custom.php:8, src/tm-renovation/inc/customizer/custom/custom_css.php:21
+msgid "Custom CSS"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/custom/_custom.php:14, src/tm-renovation/inc/customizer/custom/custom_js.php:21
+msgid "Custom JS"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/custom/custom_css.php:12
+msgid "Enable Custom CSS"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/custom/custom_js.php:12
+msgid "Enable Custom JS"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/custom/custom_js.php:25
+msgid "Open Editor"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/footer/_footer.php:8, src/tm-renovation/inc/customizer/header/_header.php:9, src/tm-renovation/inc/customizer/top/_top.php:14
+msgid "Layout & Design"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/footer/footer_color.php:65
+msgid "Widget Title Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/footer/footer_layout.php:13, src/tm-renovation/inc/customizer/page/page_title.php:9, src/tm-renovation/inc/customizer/post/post_title.php:44, src/tm-renovation/inc/customizer/top/top_style.php:49, src/tm-renovation/inc/customizer/typo/typo_body.php:10, src/tm-renovation/inc/customizer/typo/typo_heading.php:10
+msgid "Font Family"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/footer/footer_layout.php:114
+msgid "Background image"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/footer/footer_layout.php:115
+msgid "Choose a background image for your footer"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/_header.php:15
+msgid "Search"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/_header.php:23
+msgid "Minicart"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/_header.php:30, src/tm-renovation/inc/customizer/top/_top.php:20
+msgid "Spacing"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/_header.php:31
+msgid "In this section you can control all spacing settings of header"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/_header.php:37, src/tm-renovation/inc/customizer/page/_page.php:20, src/tm-renovation/inc/customizer/top/_top.php:26
+msgid "Border"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/_header.php:38
+msgid "In this section you can control all border settings of header"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_layout.php:12
+msgid "Header Type"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_layout.php:13
+msgid "Choose the header type you want"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_layout.php:44, src/tm-renovation/inc/customizer/page/page_title.php:57, src/tm-renovation/inc/customizer/post/post_title.php:68, src/tm-renovation/inc/customizer/typo/typo_body.php:35, src/tm-renovation/inc/customizer/typo/typo_heading.php:41
+msgid "Font Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_minicart.php:9
+msgid "Mini Cart"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_minicart.php:10
+msgid "Turn on this option if you want to enable mini cart for header"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_minicart.php:19, src/tm-renovation/inc/customizer/header/header_search.php:19, src/tm-renovation/inc/customizer/social/social_footer.php:9, src/tm-renovation/inc/customizer/social/social.php:86
+msgid "Icon Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_minicart.php:61
+msgid "Number Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_minicart.php:82, src/tm-renovation/inc/customizer/page/page_title.php:82, src/tm-renovation/inc/customizer/social/social_footer.php:62, src/tm-renovation/inc/customizer/social/social.php:141
+msgid "Background Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_search.php:9
+msgid "Search box"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/header/header_search.php:10
+msgid "Turn on this option if you want to enable search box on your site"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/_layout.php:8
+msgid "Layout Mode"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/_layout.php:14
+msgid "Background Options"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_bg.php:10
+msgid "Setup background color for your header"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_mode.php:9
+msgid "Site layout"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_mode.php:10, src/tm-renovation/inc/customizer/page/page_layout.php:12
+msgid "Choose the site layout you want"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_mode.php:24
+msgid "Archive layout"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_mode.php:25
+msgid "Choose the archive layout you want"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_mode.php:39
+msgid "Search layout"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/layout/layout_mode.php:40
+msgid "Choose the search layout you want"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/_logo.php:7
+msgid "Logo"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/_logo.php:13
+msgid "Favicon"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/logo_favicon.php:12
+msgid "File must be .png or .ico format. Optimal dimensions: 32px x 32px"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/logo_favicon.php:21
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/logo_favicon.php:22
+msgid "File must be .png format. Optimal dimensions: 152px x 152px"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/logo_section.php:9
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/logo_section.php:17
+msgid "Logo Padding"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/logo/logo_section.php:18
+msgid "Set up padding for your logo"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/_nav.php:7
+msgid "Mobile Menu"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/_nav.php:13
+msgid "Desktop Menu"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_desktop.php:11
+msgid "Turn on this option if you want to enable sticky header on your site"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_desktop.php:22, src/tm-renovation/inc/customizer/page/page_title.php:75, src/tm-renovation/inc/customizer/post/post_title.php:132
+msgid "Background"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_desktop.php:47
+msgid "Menu Items"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_desktop.php:74, src/tm-renovation/inc/customizer/nav/nav_desktop.php:228
+msgid "Link padding"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_desktop.php:138, src/tm-renovation/inc/customizer/nav/nav_desktop.php:286
+msgid "Link Background"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_desktop.php:203
+msgid "Sub Menu Items"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_mobile.php:9
+msgid "Button color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/nav/nav_mobile.php:25
+msgid "Mobile menu background"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/_page.php:14, src/tm-renovation/inc/customizer/post/_post.php:14
+msgid "Page Title"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/_page.php:21
+msgid "In this section you can control all border settings of pages"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/page_title.php:25
+msgid "Page Title Style"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/page_title.php:40, src/tm-renovation/inc/customizer/post/post_title.php:113
+msgid "Parallax Effect"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/page_title.php:41, src/tm-renovation/inc/customizer/post/post_title.php:114
+msgid "Turn on this option if you want to enable parallax effect for page heading"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/page_title.php:105
+msgid "Overlay Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/page/page_title.php:131, src/tm-renovation/inc/customizer/post/post_title.php:189
+msgid "Background Image"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:8
+msgid "Site"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:13
+msgid "Logo & Favicon"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:18
+msgid "Layout & Background"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:23
+msgid "Typography"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:33
+msgid "Top Area"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:38
+msgid "Header"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:43
+msgid "Social"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:55
+msgid "Navigation"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:60, src/tm-renovation/inc/vc-shortcode/thememove-button.php:14
+msgid "Button"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:65
+msgid "Footer"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:75
+msgid "Page"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:80
+msgid "Post"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:85
+msgid "Shop"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/panels.php:90
+msgid "Custom Code"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:12
+msgid "Choose the post layout you want"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:47
+msgid "Hide tags"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:48
+msgid "Turn on this option if you want to hide tags when display posts."
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:58
+msgid "Hide share buttons"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:59
+msgid "Turn on this option if you want to hide share buttons when display posts."
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:68
+msgid "Hide 'Read more' link"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_layout.php:69
+msgid "Turn on this option if you want to hide 'Read more' link when display posts."
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_title.php:10
+msgid "Show heading title in single post"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_title.php:11
+msgid "Turn on this option if you want to show heading title in single post"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_title.php:21, src/tm-renovation/inc/vc-shortcode/thememove-button.php:21
+msgid "Text"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_title.php:92, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:54
+msgid "Style"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/post/post_title.php:162
+msgid "Overlay color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/_site.php:8, src/tm-renovation/inc/customizer/site/site_preset.php:10
+msgid "Site Preset"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/_site.php:14
+msgid "Static Front Page"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/_site.php:20
+msgid "Theme Features"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/site_features.php:9
+msgid "Boxed mode"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/site_features.php:10
+msgid "Turn on this option if you want to enable box mode for content"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/site_features.php:19
+msgid "Back to top"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/site_features.php:20
+msgid "Enabling this option will display a Back to Top button on every page"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/site/site_preset.php:11
+msgid "Controls the main color scheme & layout throughout your site."
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/_social.php:7
+msgid "Social Links"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/_social.php:13
+msgid "Footer Social Links"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/_social.php:20
+msgid "Mobile Social Links"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social_mobile.php:9, src/tm-renovation/inc/customizer/social/social_mobile.php:31
+msgid "Social links color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social.php:9
+msgid "Social links"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social.php:10
+msgid "Turn on this option if you want to show social links."
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social.php:18
+msgid "Social items"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social.php:19
+msgid "You can find icon class <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social.php:49
+msgid "Font Awesome Class"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/social/social.php:54
+msgid "URL"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/top/top_style.php:13
+msgid "Setup background color for your top"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/top/top_visibility.php:12
+msgid "Top area"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/top/top_visibility.php:13
+msgid "Enabling this option will display top area"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/_typo.php:7
+msgid "Links"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/_typo.php:13
+msgid "Body"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/_typo.php:19
+msgid "Heading"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_heading.php:71
+msgid "H1 Font Size"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_heading.php:92
+msgid "H2 Font Size"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_heading.php:113
+msgid "H3 Font Size"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_heading.php:134
+msgid "H4 Font Size"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_heading.php:155
+msgid "H5 Font Size"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_heading.php:176
+msgid "H6 Font Size"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_links.php:10
+msgid "Normal state"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/typo/typo_links.php:26
+msgid "Hover state"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_color.php:98
+msgid "High Light Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_color.php:122
+msgid "Content Background Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_color.php:138
+msgid "Subtext Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_color.php:163
+msgid "Button Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_color.php:208
+msgid "Button Background Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_color.php:275
+msgid "Button Border Color"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_layout.php:12
+msgid "Category Product Page Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_layout.php:13, src/tm-renovation/inc/customizer/woo/woo_layout.php:14
+msgid "Choose the category product page layout you want"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_layout.php:28
+msgid "Single Product Page Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/customizer/woo/woo_layout.php:29, src/tm-renovation/inc/customizer/woo/woo_layout.php:30
+msgid "Choose the product page layout you want"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:20
+msgid "album"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:21
+msgid "arc"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:22
+msgid "back-2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:23
+msgid "bandaid"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:24
+msgid "car"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:25
+msgid "diamond"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:26
+msgid "door-lock"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:27
+msgid "eyedropper"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:28
+msgid "female"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:29
+msgid "gym"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:30
+msgid "hammer"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:31
+msgid "headphones"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:32
+msgid "helm"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:33
+msgid "hourglass"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:34
+msgid "leaf"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:35
+msgid "magic wand"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:36
+msgid "male"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:37
+msgid "map 2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:38
+msgid "next 2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:39
+msgid "paint bucket"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:40
+msgid "pendrive"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:41
+msgid "photo"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:42
+msgid "piggy"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:43
+msgid "plugin"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:44
+msgid "refresh 2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:45
+msgid "rocket"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:46
+msgid "settings"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:47
+msgid "shield"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:48
+msgid "smile"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:49
+msgid "usb"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:50
+msgid "vector"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:51
+msgid "wine"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:52
+msgid "cloud upload"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:53
+msgid "cash"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:54
+msgid "close"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:55
+msgid "bluetooth"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:56
+msgid "cloud download"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:57
+msgid "way"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:58
+msgid "close circle"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:59
+msgid "id"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:60
+msgid "angle up"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:61
+msgid "wristwatch"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:62
+msgid "angle-up-circle"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:63
+msgid "world"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:64
+msgid "Angle Right"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:65
+msgid "volume"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:66
+msgid "angle right circle right"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:67
+msgid "Users"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:68
+msgid "angle left"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:69
+msgid "user female"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:70
+msgid "angle left circle"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:71
+msgid "Sound"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:72
+msgid "up arrow"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:73
+msgid "switch"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:74
+msgid "down circle"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:75
+msgid "scissors"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:76
+msgid "wallet"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:77
+msgid "safe"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:78
+msgid "volume2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:79
+msgid "volume1"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:80
+msgid "voice mail"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:81
+msgid "video"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:82
+msgid "user"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:83
+msgid "upload"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:84
+msgid "unlock"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:85
+msgid "umbrella"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:86
+msgid "trash"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:87, src/tm-renovation/inc/fontlibs/renovation.php:25
+msgid "tools"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:88
+msgid "timer"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:89
+msgid "ticket"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:90
+msgid "target"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:91
+msgid "sun"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:92
+msgid "study"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:93
+msgid "stopwatch"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:94
+msgid "star"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:95
+msgid "speaker"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:96
+msgid "signal"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:97
+msgid "shuffle"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:98
+msgid "shopbag"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:99
+msgid "share"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:100
+msgid "server"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:101
+msgid "search"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:102
+msgid "film"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:103
+msgid "science"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:104
+msgid "disk"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:105
+msgid "ribbon"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:106
+msgid "repeat"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:107
+msgid "refresh"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:108
+msgid "add user"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:109
+msgid "refresh cloud"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:110
+msgid "paperclip"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:111
+msgid "radio"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:112
+msgid "note2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:113
+msgid "print"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:114
+msgid "network"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:115
+msgid "prev"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:116
+msgid "mute"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:117
+msgid "power"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:118
+msgid "medal"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:119
+msgid "portfolio"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:120
+msgid "like2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:121
+msgid "plus"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:122
+msgid "left arrow"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:123
+msgid "play"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:124
+msgid "key"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:125
+msgid "plane"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:126
+msgid "joy"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:127
+msgid "photo gallery"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:128
+msgid "pin"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:129
+msgid "phone"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:130
+msgid "plug"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:131
+msgid "pen"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:132
+msgid "right arrow"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:133
+msgid "paper plane"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:134
+msgid "delete user"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:135
+msgid "paint"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:136
+msgid "bottom arrow"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:137
+msgid "notebook"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:138
+msgid "note"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:139
+msgid "next"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:140
+msgid "news paper"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:141
+msgid "musiclist"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:142
+msgid "music"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:143
+msgid "mouse"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:144
+msgid "more"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:145
+msgid "moon"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:146
+msgid "monitor"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:147
+msgid "micro"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:148
+msgid "menu"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:149
+msgid "map"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:150
+msgid "map marker"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:151
+msgid "mail"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:152
+msgid "mail open"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:153
+msgid "mail open file"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:154
+msgid "magnet"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:155
+msgid "loop"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:156
+msgid "look"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:157
+msgid "lock"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:158
+msgid "lintern"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:159
+msgid "link"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:160
+msgid "like"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:161
+msgid "light"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:162
+msgid "less"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:163
+msgid "keypad"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:164
+msgid "junk"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:165
+msgid "info"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:166, src/tm-renovation/inc/fontlibs/renovation.php:22
+msgid "home"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:167
+msgid "help2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:168
+msgid "help1"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:169, src/tm-renovation/inc/fontlibs/pe7stroke.php:172
+msgid "graph3"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:170
+msgid "graph2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:171
+msgid "graph1"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:173
+msgid "global"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:174
+msgid "gleam"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:175
+msgid "glasses"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:176
+msgid "gift"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:177
+msgid "folder"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:178
+msgid "flag"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:179
+msgid "filter"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:180
+msgid "file"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:181
+msgid "expand1"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:182
+msgid "expand2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:183
+msgid "edit"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:184
+msgid "drop"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:185
+msgid "drawer"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:186
+msgid "download"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:187
+msgid "display2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:188
+msgid "display1"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:189
+msgid "diskette"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:190
+msgid "date"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:191
+msgid "cup"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:192
+msgid "culture"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:193
+msgid "crop"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:194
+msgid "credit"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:195
+msgid "copy file"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:196
+msgid "config"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:197
+msgid "compass"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:198
+msgid "comment"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:199
+msgid "coffee"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:200
+msgid "cloud"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:201
+msgid "clock"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:202
+msgid "check"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:203
+msgid "chat"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:204
+msgid "cart"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:205
+msgid "Camera"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:206
+msgid "call"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:207
+msgid "calculator"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:208
+msgid "browser"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:209
+msgid "box2"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:210
+msgid "box1"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:211
+msgid "bookmarks"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:212
+msgid "bicycle"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:213
+msgid "bell"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:214
+msgid "battery"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:215
+msgid "ball"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:216
+msgid "back"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:217
+msgid "attention"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:218
+msgid "anchor"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:219
+msgid "albums"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:220
+msgid "alarm"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/pe7stroke.php:221
+msgid "airplay"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:20
+msgid "door"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:21
+msgid "electrical"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:23
+msgid "painting"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:24
+msgid "plumbing"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:26
+msgid "heating"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:27
+msgid "renovation"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:28
+msgid "drywall"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:29
+msgid "drill"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:30
+msgid "gear"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:31
+msgid "wall"
+msgstr ""
+
+#: src/tm-renovation/inc/fontlibs/renovation.php:32
+msgid "windows"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:322, src/tm-renovation/inc/tgm-plugin-registration.php:109
+msgid "Install Required Plugins"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:323, src/tm-renovation/inc/tgm-plugin-registration.php:110
+msgid "Install Plugins"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:324, src/tm-renovation/inc/tgm-plugin-registration.php:111
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:325, src/tm-renovation/inc/tgm-plugin-registration.php:113
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:326, src/tm-renovation/inc/tgm-plugin-registration.php:114
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:331, src/tm-renovation/inc/tgm-plugin-registration.php:116
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:336, src/tm-renovation/inc/tgm-plugin-registration.php:118
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:341, src/tm-renovation/inc/tgm-plugin-registration.php:120
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:346, src/tm-renovation/inc/tgm-plugin-registration.php:122
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:351, src/tm-renovation/inc/tgm-plugin-registration.php:124
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:356, src/tm-renovation/inc/tgm-plugin-registration.php:126
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:361, src/tm-renovation/inc/tgm-plugin-registration.php:128
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:366, src/tm-renovation/inc/tgm-plugin-registration.php:130
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:371, src/tm-renovation/inc/tgm-plugin-registration.php:132
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:376, src/tm-renovation/inc/tgm-plugin-registration.php:133
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:381, src/tm-renovation/inc/tgm-plugin-registration.php:134
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:386, src/tm-renovation/inc/tgm-plugin-registration.php:135
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:387
+msgid "Return to the dashboard"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:388, src/tm-renovation/inc/tgm-plugin-activation.php:3018, src/tm-renovation/inc/tgm-plugin-registration.php:136
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:389, src/tm-renovation/inc/tgm-plugin-activation.php:2821, src/tm-renovation/inc/tgm-plugin-registration.php:137
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:390, src/tm-renovation/inc/tgm-plugin-registration.php:138
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:391, src/tm-renovation/inc/tgm-plugin-registration.php:140
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:392, src/tm-renovation/inc/tgm-plugin-registration.php:142
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:394, src/tm-renovation/inc/tgm-plugin-registration.php:144
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:509
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:510
+msgid "Update Required"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:624
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:817, src/tm-renovation/inc/tgm-plugin-activation.php:3427
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:924
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:924, src/tm-renovation/inc/tgm-plugin-activation.php:927
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:927
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:1105, src/tm-renovation/inc/tgm-plugin-activation.php:2817
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:1870
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2156
+msgid "Required"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2159
+msgid "Recommended"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2175
+msgid "WordPress Repository"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2178
+msgid "External Source"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2181
+msgid "Pre-Packaged"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2198
+msgid "Not Installed"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2204
+msgid "Active"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2210
+msgid "Required Update not Available"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2213
+msgid "Requires Update"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2216
+msgid "Update recommended"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2224
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2269
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2272
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2275
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2278
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2360
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2368
+msgid "Installed version:"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2376
+msgid "Minimum required version:"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2388
+msgid "Available version:"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2411
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2425
+msgid "Plugin"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2426
+msgid "Source"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2427
+msgid "Type"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2431
+msgid "Version"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2432
+msgid "Status"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2480
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2484
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2489
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2559
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2592
+msgid "Install"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2598
+msgid "Update"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2601
+msgid "Activate"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2632
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2634
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2670
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2672
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2777
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:2803
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3017
+msgid "Plugin activation failed."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3351
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3353
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3354
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3358
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3359
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3359, src/tm-renovation/inc/tgm-plugin-activation.php:3365
+msgid "Show Details"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3359, src/tm-renovation/inc/tgm-plugin-activation.php:3365
+msgid "Hide Details"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3360
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3361
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3364
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3365
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3366
+msgid "All installations have been completed."
+msgstr ""
+
+#: src/tm-renovation/inc/tgm-plugin-activation.php:3367
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/tm-renovation/inc/variables.php:271, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:104, src/tm-renovation/index.php:28, src/tm-renovation/index.php:34
+msgid "Blog"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:38, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:149
+msgid "1 columns - 1/1 - 12 items in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:39, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:150
+msgid "2 columns - 1/6 - 6 items in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:40, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:151
+msgid "3 columns - 1/4 - 4 items in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:41, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:152
+msgid "4 columns - 1/3 - 3 items in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:42, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:153
+msgid "6 columns - 1/2 - 2 items in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:43, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:154
+msgid "12 columns - 1/1 - 1 item in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:60
+msgid "Default value from \"Number of items in a row\" attribute"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:63
+msgid "Inherit from smaller"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:86
+msgid "Device"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:87
+msgid "Item width"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-params/thememove-responsive/thememove_responsive.php:88
+msgid "Hide on device?"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:106, src/tm-renovation/inc/vc-shortcode/thememove-button.php:16, src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:27, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:51, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:9, src/tm-renovation/inc/vc-shortcode/thememove-project-details.php:16, src/tm-renovation/inc/vc-shortcode/thememove-project-share.php:16, src/tm-renovation/inc/vc-shortcode/thememove-recentposts.php:15
+msgid "by THEMEMOVE"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:110
+msgid "Post layout"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:111
+msgid "Select a template to display post"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:115
+msgid "List Post Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:116
+msgid "1 Full Post then List Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:117
+msgid "Grid Post Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:118
+msgid "1 Full Post then Grid Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:119
+msgid "Simple Post Layout"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:124
+msgid "Total Posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:127
+msgid "Set max limit for items in grid or enter -1 to display all (limited to 1000)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:131
+msgid "Posts per page"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:134
+msgid "Number of items to show per page"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:139
+msgid "Show Share Buttons"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:144
+msgid "Item Width"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:145
+msgid "Enter item width in a row (has 12 columns)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:148
+msgid "Default (6 columns - 1/2 - 2 items in a row)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:163
+msgid "Number of posts in a row"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:166
+msgid "Default (2 posts)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:167
+msgid "12 posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:168
+msgid "6  posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:169
+msgid "4  posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:170
+msgid "3  posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:171
+msgid "2  posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:172
+msgid "1  posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:177, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:192, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:203, src/tm-renovation/inc/vc-shortcode/thememove-blog.php:214
+msgid "Data Settings"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:179, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:72
+msgid "Order by"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:181
+msgid "Select order type."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:183, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:78, src/tm-renovation/inc/vc-template/thememove_project_details.php:34
+msgid "Date"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:184
+msgid "Post ID"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:185
+msgid "Author"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:186, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:77
+msgid "Title"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:187
+msgid "Last modified date"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:188
+msgid "Random order"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:194
+msgid "Sorting"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:196
+msgid "Select sorting order."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:198
+msgid "Descending"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:199
+msgid "Ascending"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:205
+msgid "Filter by"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:207
+msgid "Select filter source."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:209, src/tm-renovation/inc/vc-template/thememove_project_details.php:66, src/tm-renovation/projects/single-project/meta.php:32
+msgid "Categories"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:210
+msgid "Tags"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:217
+msgid "Enter categories, tags to filter."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:231
+msgid "Responsive Options"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:233
+msgid "Responsiveness"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:235
+msgid "Adjust Number of items in a row for different screen sizes."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:243, src/tm-renovation/inc/vc-shortcode/thememove-button.php:162, src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:123, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:165, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:156, src/tm-renovation/inc/vc-shortcode/thememove-project-details.php:32, src/tm-renovation/inc/vc-shortcode/thememove-project-share.php:21, src/tm-renovation/inc/vc-shortcode/thememove-recentposts.php:45, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:120
+msgid "Extra class name"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-blog.php:245, src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:125, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:167
+msgid "If you want to use multiple Google Maps in one page, please add a class name for them."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:24
+msgid "Enter text on the button."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:28
+msgid "URL (Link)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:30
+msgid "Enter button link"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:35
+msgid "Add icon?"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:39, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:14
+msgid "Icon library"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:42, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:17
+msgid "Font Awesome"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:43, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:18
+msgid "Open Iconic"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:44, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:19
+msgid "Typicons"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:45, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:20
+msgid "Entypo"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:46, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:21
+msgid "Linecons"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:47, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:22
+msgid "P7 Stroke"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:51, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:26
+msgid "Select icon library."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:56, src/tm-renovation/inc/vc-shortcode/thememove-button.php:71, src/tm-renovation/inc/vc-shortcode/thememove-button.php:86, src/tm-renovation/inc/vc-shortcode/thememove-button.php:101, src/tm-renovation/inc/vc-shortcode/thememove-button.php:115, src/tm-renovation/inc/vc-shortcode/thememove-button.php:130, src/tm-renovation/inc/vc-shortcode/thememove-button.php:146, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:7, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:30, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:46, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:62, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:78, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:94, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:110, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:126
+msgid "Icon"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:67, src/tm-renovation/inc/vc-shortcode/thememove-button.php:82, src/tm-renovation/inc/vc-shortcode/thememove-button.php:97, src/tm-renovation/inc/vc-shortcode/thememove-button.php:126, src/tm-renovation/inc/vc-shortcode/thememove-button.php:142, src/tm-renovation/inc/vc-shortcode/thememove-button.php:158, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:42, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:58, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:74, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:90, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:106, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:122, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:138
+msgid "Select icon from library."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-button.php:164, src/tm-renovation/inc/vc-shortcode/thememove-icon.php:158, src/tm-renovation/inc/vc-shortcode/thememove-project-details.php:34, src/tm-renovation/inc/vc-shortcode/thememove-project-share.php:23, src/tm-renovation/inc/vc-shortcode/thememove-recentposts.php:47
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:25
+msgid "Google Maps"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:31, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:139
+msgid "Address or Coordinate"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:35, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:142
+msgid "Enter address or coordinate. To learn how to get coordinates, visit <a href=\"https://support.google.com/maps/answer/18539?hl=en\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:39, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:151
+msgid "Marker icon"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:41, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:153
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:45, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:157
+msgid "Marker Information"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:47, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:159
+msgid "Content for info window"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:51, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:55
+msgid "Height"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:54
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:58, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:62
+msgid "Width"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:61
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:65, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:69
+msgid "Zoom level"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:68, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:72
+msgid "Map zoom level"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:74, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:78
+msgid "Enable mouse scroll wheel zoom"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:79, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:83
+msgid "Map type"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:82, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:86
+msgid "Choose a map type"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:92, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:96
+msgid "Map style"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:95, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:99
+msgid "Choose a map style. This approach changes the style of the Roadmap types (base imagery in terrain and satellite views is not affected, but roads, labels, etc. respect styling rules)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:113, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:117
+msgid "Map style snippet"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps.php:115, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:119
+msgid "To get the style snippet, visit <a href=\"https://snazzymaps.com\" target=\"_blank\">Sanzzymaps</a> or <a href=\"http://www.mapstylr.com/\" target=\"_blank\">Mapstylr</a>."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:49
+msgid "Google Maps 2 (multiple locations)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:58
+msgid "Enter map height (in pixels or %)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:65
+msgid "Enter map width (in pixels or %)"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:126, src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:128
+msgid "Markers"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-gmaps2.php:130
+msgid "You can add multiple markers to the map"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-icon.php:142
+msgid "Font size"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-icon.php:145
+msgid "Enter font size"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-icon.php:152
+msgid "Select icon color."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-project-details.php:13, src/tm-renovation/projects/single-project/meta.php:15
+msgid "Project Details"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-project-details.php:14, src/tm-renovation/inc/vc-shortcode/thememove-project-share.php:14
+msgid "Only available for Projects."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-project-details.php:24
+msgid "Choose a layout to display project details"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-project-share.php:13
+msgid "Project Share Buttons"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-recentposts.php:13
+msgid "Recent Posts"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-recentposts.php:28
+msgid "Show excerpt"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-recentposts.php:40
+msgid "Enter numbers of articles"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:22
+msgid "Enable Carousel"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:24, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:31, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:39, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:97, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:105, src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:114
+msgid "Yes"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:29
+msgid "Show Bullets"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:37
+msgid "Enable Autoplay"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:45
+msgid "Number of item per slide"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:48
+msgid "Number of Testimonials per slide"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:59
+msgid "Renovation 2017"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:61
+msgid "Select testimonial style"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:65, src/tm-renovation/woocommerce/cart/cart-totals.php:78, src/tm-renovation/woocommerce/cart/cart.php:39, src/tm-renovation/woocommerce/cart/cart.php:119, src/tm-renovation/woocommerce/checkout/review-order.php:18, src/tm-renovation/woocommerce/checkout/review-order.php:103
+msgid "Total"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:68
+msgid "Number of Testimonials"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:75
+msgid "None"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:76
+msgid "ID"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:79
+msgid "Menu Order"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:81
+msgid "How to order the items ?"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:85
+msgid "Order"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:88
+msgid "DESC"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:89
+msgid "ASC"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:91
+msgid "How to order the items"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:95
+msgid "Show Author Info"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:98
+msgid "Choose yes to show author name and byline"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:103
+msgid "Show URL"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:106
+msgid "Choose yes to show author url"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:112
+msgid "Show Author Image"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-shortcode/thememove-testimonials.php:115
+msgid "Choose yes to show author avatar"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-template/thememove_project_details.php:27, src/tm-renovation/inc/vc-template/thememove_project_share.php:16
+msgid "Project Details Shortcode only available for \"Projects\" content type."
+msgstr ""
+
+#: src/tm-renovation/inc/vc-template/thememove_project_details.php:42, src/tm-renovation/projects/single-project/meta.php:52
+msgid "Client"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-template/thememove_project_details.php:74
+msgid "Link"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-template/thememove_project_details.php:75, src/tm-renovation/projects/single-project/meta.php:74
+msgid "Visit project"
+msgstr ""
+
+#: src/tm-renovation/inc/vc-template/thememove_project_share.php:20, src/tm-renovation/projects/content-single-project.php:61, src/tm-renovation/template-parts/content-grid.php:54, src/tm-renovation/template-parts/content-list.php:61, src/tm-renovation/template-parts/content-search.php:54, src/tm-renovation/template-parts/content-single.php:60, src/tm-renovation/template-parts/content.php:58
+msgid "Share "
+msgstr ""
+
+#: src/tm-renovation/projects/content-project.php:51, src/tm-renovation/template-parts/content-grid.php:33, src/tm-renovation/template-parts/content-list.php:40, src/tm-renovation/template-parts/content.php:36
+msgid "Read More"
+msgstr ""
+
+#: src/tm-renovation/projects/single-project/description.php:17
+msgid "Project Description"
+msgstr ""
+
+#: src/tm-renovation/projects/single-project/meta.php:73
+msgid "Link:"
+msgstr ""
+
+#: src/tm-renovation/search.php:23, src/tm-renovation/search.php:29
+msgid "Search Results for: %s"
+msgstr ""
+
+#: src/tm-renovation/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: src/tm-renovation/template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: src/tm-renovation/template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: src/tm-renovation/template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: src/tm-renovation/template-parts/content-page.php:16, src/tm-renovation/template-parts/content-single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-shipping.php:48
+msgid "There are no shipping methods available. Please ensure that your address has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-shipping.php:50
+msgid "Enter your full address to see shipping costs."
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-totals.php:24, src/tm-renovation/woocommerce/cart/mini-cart.php:85, src/tm-renovation/woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-totals.php:45, src/tm-renovation/woocommerce/checkout/review-order.php:71
+msgid "Shipping and Handling"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-totals.php:90
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-totals.php:90
+msgid "WC->countries->countries[WC->countries->get_base_country]"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart-totals.php:93
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:36, src/tm-renovation/woocommerce/cart/cart.php:78, src/tm-renovation/woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:37, src/tm-renovation/woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:38, src/tm-renovation/woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:59, src/tm-renovation/woocommerce/cart/mini-cart.php:51
+msgid "Remove this item"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:134
+msgid "Update Cart"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:162
+msgid "Shipping"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:173
+msgid "Coupon"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:175
+msgid "Coupon code"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/cart.php:177
+msgid "Apply Coupon"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/cart/mini-cart.php:77
+msgid "No products in the cart."
+msgstr ""
+
+#: src/tm-renovation/woocommerce/loop/orderby.php:17
+msgid "Shop filter"
+msgstr ""
+
+#: src/tm-renovation/woocommerce/single-product/share.php:18
+msgid "Share on:"
+msgstr ""

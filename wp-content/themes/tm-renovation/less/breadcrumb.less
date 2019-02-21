@@ -1,0 +1,39 @@
+@import (reference) "_elements";
+
+/*--------------------------------------------
+Breadcrumb
+----------------------------------------------*/
+
+.big-title .tm_bread_crumb { margintop: -70px; }
+
+.tm_bread_crumb {
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 50px;
+  border: 1px solid #eee;
+  padding: 20px;
+
+  li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 !important;
+    &:before {
+      .iconfont;
+      .transit;
+    }
+    &:first-child {
+      &:before {
+        content: '\f015';
+        font-size: 16px;
+        margin-right: 8px;
+      }
+    }
+  }
+  .sub {
+    &:before {
+      content: '\f105';
+      margin: 0 12px;
+    }
+  }
+}

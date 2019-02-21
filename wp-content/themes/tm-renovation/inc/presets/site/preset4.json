@@ -1,0 +1,40 @@
+{
+	"label": "Preset 4",
+	"image": "images/preset4.png",
+	"settings": {
+		"site_color_secondary": "#1d2736",
+		"header_type": "header02",
+		"top_bg_color": "#1d2736",
+		"header_bg_color": "#fff",
+		"header_style_font_color": "#1d2736",
+		"header_style_search_text_color": "#fff",
+		"header_style_minicart_icon_color": "#fff",
+		"header_style_minicart_number_color": "#222",
+		"header_bg_minicart_number_bg": "#fbd232",
+		"page_heading_bg_color": "#1d2736",
+		"social_links_color": "#fff",
+		"social_links_color_hover": "#fff",
+		"nav_spacing_menu_text_padding": {
+			"top": "27px",
+			"bottom": "26px",
+			"left": "40px",
+			"right": "15px"
+		},
+		"nav_bg_menu_background": "#fbd232",
+		"nav_style_menu_text": "#1d2736",
+		"nav_style_menu_text_hover": "#fff",
+		"nav_bg_menu_text_bg": "#fbd232",
+		"nav_bg_menu_text_bg_hover": "#1d2736",
+		"nav_style_sub_menu_text_hover": "#1d2736",
+		"button_style_link_color": "#1d2736",
+		"button_style_link_color_hover": "#fff",
+		"button_bg_color": "#fbd232",
+		"button_border_color": "#fbd232",
+		"button_border_color_hover": "#1d2736",
+		"button_bg_color_hover": "#1d2736",
+		"footer_bg_color": "rgba(29, 39, 55, 0.9)",
+		"copyright_bg_color": "#1d2736",
+		"footer_social_links_color": "#1d2736",
+		"footer_social_links_bg_color_hover": "#1d2736"
+	}
+}

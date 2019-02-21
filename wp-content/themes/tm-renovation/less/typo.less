@@ -1,0 +1,61 @@
+@import (reference) "_elements";
+
+/*--------------------------------------------
+Typo
+----------------------------------------------*/
+blockquote {
+  border: 2px solid transparent;
+  border-left-width: 10px;
+  padding: 20px;
+  p {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.7);
+  }
+
+  @media @xs-max {
+    margin: 10px 0 20px;
+  }
+}
+
+.heading-title {
+  letter-spacing: -0.025em;
+}
+
+.heading-title-with-subtitle {
+  .wpb_text_column {
+    p {
+      color: #666;
+    }
+  }
+}
+
+.heading-title-with-subtitle--dark {
+  .wpb_text_column {
+    p {
+      color: rgba(255,255,255,0.5);
+    }
+  }
+}
+
+.wrench-list {
+  list-style-type: none;
+  margin: 0 !important;
+  li {
+    margin: 0 !important;
+    &:before {
+      .iconfont;
+      content: '\f0ad';
+      font-size: 12px;
+      display: inline-block;
+      margin-right: 10px;
+      margin-bottom: 12px;
+    }
+  }
+  &.dark-bg {
+    a {
+      color: #fff;
+    }
+  }
+}

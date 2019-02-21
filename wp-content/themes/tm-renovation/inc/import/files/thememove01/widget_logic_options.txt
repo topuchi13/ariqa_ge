@@ -1,0 +1,16 @@
+[START=WIDGET LOGIC OPTIONS]
+text-2	""
+text-5	""
+text-4	""
+text-6	""
+tag_cloud-2	""
+woocommerce_top_rated_products-2	""
+woocommerce_product_categories-2	""
+woocommerce_product_tag_cloud-2	""
+woocommerce_product_search-2	""
+better-menu-widget-3	""
+text-8	""
+better-menu-widget-4	""
+better-menu-widget-5	""
+better-menu-widget-6	""
+[STOP=WIDGET LOGIC OPTIONS]

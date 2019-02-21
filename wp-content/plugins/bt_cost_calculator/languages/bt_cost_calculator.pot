@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BoldThemes
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-10 13:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bt_cost_calculator.php:57 bt_cost_calculator.php:167
+msgid "Total"
+msgstr ""
+
+#: bt_cost_calculator.php:62 bt_cost_calculator.php:188
+#: bt_cost_calculator.php:920 bt_cost_calculator.php:934
+msgid "Name"
+msgstr ""
+
+#: bt_cost_calculator.php:63 bt_cost_calculator.php:189
+msgid "Email"
+msgstr ""
+
+#: bt_cost_calculator.php:64 bt_cost_calculator.php:190
+msgid "Phone"
+msgstr ""
+
+#: bt_cost_calculator.php:65 bt_cost_calculator.php:191
+msgid "Address"
+msgstr ""
+
+#: bt_cost_calculator.php:66
+msgid "Service Date"
+msgstr ""
+
+#: bt_cost_calculator.php:67
+msgid "Service Time"
+msgstr ""
+
+#: bt_cost_calculator.php:68 bt_cost_calculator.php:204
+msgid "Message"
+msgstr ""
+
+#: bt_cost_calculator.php:169
+msgid "Next"
+msgstr ""
+
+#: bt_cost_calculator.php:194
+msgid "Preferred Service Date"
+msgstr ""
+
+#: bt_cost_calculator.php:199
+msgid "Preferred Service Time"
+msgstr ""
+
+#: bt_cost_calculator.php:211
+msgid "Submit"
+msgstr ""
+
+#: bt_cost_calculator.php:605
+msgid "Please fill out all required fields."
+msgstr ""
+
+#: bt_cost_calculator.php:679
+msgid "Please wait..."
+msgstr ""
+
+#: bt_cost_calculator.php:688
+msgid "Thank you, we will contact you soon!"
+msgstr ""
+
+#: bt_cost_calculator.php:690 bt_cost_calculator.php:694
+msgid "Error! Please try again later."
+msgstr ""
+
+#: bt_cost_calculator.php:829
+msgid "Select..."
+msgstr ""
+
+#: bt_cost_calculator.php:892
+msgid "Admin Email"
+msgstr ""
+
+#: bt_cost_calculator.php:893
+msgid "Email Subject"
+msgstr ""
+
+#: bt_cost_calculator.php:894
+msgid "Preferred Time Start"
+msgstr ""
+
+#: bt_cost_calculator.php:897
+msgid "Preferred Time End"
+msgstr ""
+
+#: bt_cost_calculator.php:900
+msgid "Currency"
+msgstr ""
+
+#: bt_cost_calculator.php:901
+msgid "Mandatory Name"
+msgstr ""
+
+#: bt_cost_calculator.php:902
+msgid "Mandatory Email"
+msgstr ""
+
+#: bt_cost_calculator.php:903
+msgid "Mandatory Phone"
+msgstr ""
+
+#: bt_cost_calculator.php:904
+msgid "Mandatory Address"
+msgstr ""
+
+#: bt_cost_calculator.php:905
+msgid "Mandatory Preferred Date"
+msgstr ""
+
+#: bt_cost_calculator.php:906
+msgid "Mandatory Preferred Time"
+msgstr ""
+
+#: bt_cost_calculator.php:907
+msgid "Mandatory Message"
+msgstr ""
+
+#: bt_cost_calculator.php:908
+msgid "Accent Color"
+msgstr ""
+
+#: bt_cost_calculator.php:909
+msgid "Show Date/Time Fields"
+msgstr ""
+
+#: bt_cost_calculator.php:910
+msgid "reCAPTCHA Site key"
+msgstr ""
+
+#: bt_cost_calculator.php:911
+msgid "reCAPTCHA Secret key"
+msgstr ""
+
+#: bt_cost_calculator.php:912
+msgid "Your PayPal account email address"
+msgstr ""
+
+#: bt_cost_calculator.php:913
+msgid "Shopping cart name"
+msgstr ""
+
+#: bt_cost_calculator.php:914
+msgid "Currency code (USD, EUR, GBP, CAD, JPY)"
+msgstr ""
+
+#: bt_cost_calculator.php:915
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: bt_cost_calculator.php:916
+msgid "Inline Style"
+msgstr ""
+
+#: bt_cost_calculator.php:921 bt_cost_calculator.php:935
+msgid "Input Type"
+msgstr ""
+
+#: bt_cost_calculator.php:923 bt_cost_calculator.php:937
+msgid "Text"
+msgstr ""
+
+#: bt_cost_calculator.php:924 bt_cost_calculator.php:938
+msgid "Select"
+msgstr ""
+
+#: bt_cost_calculator.php:925 bt_cost_calculator.php:939
+msgid "Slider"
+msgstr ""
+
+#: bt_cost_calculator.php:926 bt_cost_calculator.php:940
+msgid "Switch"
+msgstr ""
+
+#: bt_cost_calculator.php:928
+msgid ""
+"Value (unit_value for Text / name;value;description separated by new line "
+"for Select / min;max;step;unit_value;offset_value for Slider / value_off;"
+"value_on for Switch)"
+msgstr ""
+
+#: bt_cost_calculator.php:929 bt_cost_calculator.php:943
+msgid "Images for Select input type"
+msgstr ""
+
+#: bt_cost_calculator.php:930 bt_cost_calculator.php:944
+msgid "Images Height in px"
+msgstr ""
+
+#: bt_cost_calculator.php:942
+msgid "Value"
+msgstr ""
+
+#: bt_cost_calculator.php:942
+msgid ""
+"unit_value for Text / name;value;description separated by new line for "
+"Select / min;max;step;unit_value;offset_value for Slider / value_off;"
+"value_on for Switch"
+msgstr ""
+
+#: bt_cost_calculator.php:951 bt_cost_calculator.php:977
+msgid "Cost Calculator"
+msgstr ""
+
+#: bt_cost_calculator.php:951 bt_cost_calculator.php:986
+msgid "Cost calculator container"
+msgstr ""
+
+#: bt_cost_calculator.php:955 bt_cost_calculator.php:994
+msgid "Cost Calculator Item"
+msgstr ""
+
+#: bt_cost_calculator.php:955
+msgid "Single cost calculator element"
+msgstr ""
+
+#: bt_cost_calculator.php:959
+msgid "Cost Calculator Multiply"
+msgstr ""
+
+#: bt_cost_calculator.php:959 bt_cost_calculator.php:1018
+msgid "Cost calculator multiply container"
+msgstr ""
+
+#: bt_cost_calculator.php:1001
+msgid "Cost calculator item"
+msgstr ""
+
+#: bt_cost_calculator.php:1009
+msgid "Quote Calculator Multiply"
+msgstr ""

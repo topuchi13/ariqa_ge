@@ -1,0 +1,65 @@
+.cmb2_number {
+    display: inline-block;
+    vertical-align: top
+}
+
+.cmb2_number span {
+    line-height: 40px;
+    margin-left: 10px
+}
+
+.cmb2_number input[type=number] {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    -moz-appearance: textfield;
+    height: 40px;
+    width: 70px;
+    margin: 0 !important;
+}
+
+.cmb2_number input[type=number]::-webkit-inner-spin-button, .cmb2_number input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none
+}
+
+.cmb2_number .minus, .cmb2_number .plus {
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 18px;
+    width: 30px;
+    height: 40px;
+    border: 1px solid #ddd;
+    background-color: #eee;
+    color: #888;
+    margin: 0;
+    padding: 0
+}
+
+.cmb2_number .minus {
+    border-right-width: 0;
+    margin-right: -4px;
+}
+
+.cmb2_number .plus {
+    border-left-width: 0;
+    margin-left: -4px !important;
+}
+
+.cmb2_number .minus:focus, .cmb2_number .plus:focus {
+    outline: none;
+    border-color: #5b9dd9;
+    border-width: 1px !important;
+    -webkit-box-shadow: 0 0 2px rgba(30, 140, 190, .8);
+    box-shadow: 0 0 2px rgba(30, 140, 190, .8)
+}
+
+.cmb-type-tm-multiselect .select2-selection__choice,
+.cmb-type-tm-multiselect .select2-search--inline {
+    margin-bottom: 0;
+    line-height: inherit;
+}
+
+.cmb-type-tm-multiselect .select2-selection__choice {
+    cursor: move !important;
+}

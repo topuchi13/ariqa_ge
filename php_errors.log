@@ -1,0 +1,112 @@
+[21-Feb-2019 10:07:51 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:07:51 UTC] PHP Stack trace:
+[21-Feb-2019 10:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:07:51 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:07:51 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:07:51 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:07:51 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:07:51 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:07:51 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:07:51 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:07:51 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:07:51 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:07:51 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:07:51 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:07:51 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:07:51 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
+[21-Feb-2019 10:08:39 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:08:39 UTC] PHP Stack trace:
+[21-Feb-2019 10:08:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:08:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:08:39 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:08:39 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:08:39 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:08:39 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:39 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:39 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:08:39 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:08:39 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:08:39 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:08:39 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:08:39 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:08:39 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
+[21-Feb-2019 10:08:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:08:41 UTC] PHP Stack trace:
+[21-Feb-2019 10:08:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:08:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:08:41 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:08:41 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:08:41 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:08:41 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:41 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:41 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:08:41 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:08:41 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:08:41 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:08:41 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:08:41 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:08:41 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
+[21-Feb-2019 10:08:42 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:08:42 UTC] PHP Stack trace:
+[21-Feb-2019 10:08:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:08:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:08:42 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:08:42 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:08:42 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:08:42 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:42 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:42 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:08:42 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:08:42 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:08:42 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:08:42 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:08:42 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:08:42 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
+[21-Feb-2019 10:08:42 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:08:42 UTC] PHP Stack trace:
+[21-Feb-2019 10:08:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:08:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:08:42 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:08:42 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:08:42 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:08:42 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:42 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:42 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:08:42 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:08:42 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:08:42 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:08:42 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:08:42 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:08:42 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
+[21-Feb-2019 10:08:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:08:43 UTC] PHP Stack trace:
+[21-Feb-2019 10:08:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:08:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:08:43 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:08:43 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:08:43 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:08:43 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:43 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:43 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:08:43 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:08:43 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:08:43 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:08:43 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:08:43 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:08:43 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
+[21-Feb-2019 10:08:49 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[21-Feb-2019 10:08:49 UTC] PHP Stack trace:
+[21-Feb-2019 10:08:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[21-Feb-2019 10:08:49 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[21-Feb-2019 10:08:49 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:224
+[21-Feb-2019 10:08:49 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[21-Feb-2019 10:08:49 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:310
+[21-Feb-2019 10:08:49 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:286}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:49 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:286
+[21-Feb-2019 10:08:49 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:650
+[21-Feb-2019 10:08:49 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:2761
+[21-Feb-2019 10:08:49 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3143
+[21-Feb-2019 10:08:49 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3032
+[21-Feb-2019 10:08:49 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:759
+[21-Feb-2019 10:08:49 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/tm-renovation/inc/tgm-plugin-activation.php:3400
+[21-Feb-2019 10:08:49 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:150
